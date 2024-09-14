@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Dev",
+            "database": "${workspaceFolder:boc}/prisma/db.sqlite3"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "dev 2",
+            "database": "${workspaceFolder:boc}/prisma/db.sqlie3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

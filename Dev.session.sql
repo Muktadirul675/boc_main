@@ -1,0 +1,1 @@
+INSERT INTO ROLE(id,name) VALUES('bocAdmin','Admin')
